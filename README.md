@@ -1,4 +1,4 @@
-# Employees. Row Mapper.
+# Employees. Set Mapper.
 
 ## Description 
 Implement [`com.epam.rd.autocode.SetMapperFactory.employeesSetMapper`](src/main/java/com/epam/rd/autocode/SetMapperFactory.java) method.
